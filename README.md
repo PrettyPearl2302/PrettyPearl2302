@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, my name is Pearl Wogu, and welcome to my Github! I hope you love it here<br><br>🧍🏾‍♀️Computer Science Major at Philander Smith University<br>⌨️ Aspiring Software Engineer: I love to get handy and provide solutions to tech-related problems!<br>🧑🏾‍💻 Previously completed Software Engineering internships at leading tech companies Microsoft, and Meta!<br>🚀 Goals: To become an excellent dev and contribute my skills to meaningful projects <br>😁 Hobbies: reading, shopping, day-dreaming, spending time with family (suggest a hobby for me)<br>
+Hi, my name is Pearl Wogu, and welcome to my Github! I hope you love it here<br><br>🧍🏾‍♀️Computer Science Major at Philander Smith University<br>⌨️ Aspiring Software Engineer: I love to get handy and provide solutions to tech-related problems!<br>🧑🏾‍💻 Previously completed Software Engineering internships at leading tech companies Microsoft, and Meta!<br>🚀 Goals: To become an excellent dev and contribute my skills to meaningful projects <br>😁 Hobbies: reading, writing, making videos, spending time with family (suggest a hobby for me)<br>
 
 
 ## 🌐 Socials:
